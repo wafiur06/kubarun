@@ -1,5 +1,5 @@
 ```python
-markdown_content = """# 🚀 Django Notes App - Kubernetes Deployment Guide
+🚀 Django Notes App - Kubernetes Deployment Guide
 
 This repository contains the step-by-step guide and Kubernetes manifests to deploy a Django Notes application to a local Kubernetes cluster using **Kind (Kubernetes IN Docker)**.
 
@@ -12,17 +12,15 @@ Before you begin, ensure you have the following installed on your local machine:
 - [Kind](https://kind.sigs.k8s.io/)
 
 ---
-
+```
 ## 🛠️ Step-by-Step Deployment Process
 
 ### Step 1: Clone the Repository & Checkout Branch
 First, clone the source code and switch to the development branch.
 
-```
-
 ```text
 File created successfully.
-
+```
 ```bash
 git clone [https://github.com/LondheShubham153/django-notes-app.git](https://github.com/LondheShubham153/django-notes-app.git)
 cd django-notes-app
